@@ -1,0 +1,23 @@
+div,form,input{
+    padding:0;
+    margin:0;
+}
+
+.wripper{
+    width:1600px;
+    margin:0 auto;
+}
+
+.fl{
+    float:left;
+}
+
+.fr{
+    float:right;
+}
+
+.clearfix:after{
+    content:"";
+    display:block;
+    clear:both;
+}
